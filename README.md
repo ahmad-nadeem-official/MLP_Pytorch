@@ -82,8 +82,8 @@ It’s perfect for predicting mobile price range from structured/tabular data.
 ### 🧱 Clone the Repo
 
 
-`git clone https://github.com/ahmad-nadeem-official/MLP_Pytorch.git
-cd MLP_Pytorch/mlp` 
+`git clone https://github.com/ahmad-nadeem-official/MLP_Pytorch.git`
+`cd MLP_Pytorch/mlp` 
 
 ### 🧪 Requirements
 
