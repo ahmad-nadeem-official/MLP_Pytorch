@@ -2,4 +2,4 @@ link for google colab
 
 https://colab.research.google.com/drive/1SbXUIGewAaA85huMvGBhJebBNkmdw_SH#scrollTo=T9qDAX2SRjsn
 
-Multi-layer-Perceptron ()
+Multi-layer-Perceptron (MLP)
