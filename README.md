@@ -56,7 +56,7 @@ It’s perfect for predicting mobile price range from structured/tabular data.
 
 > ✨ Recommended: Use **Google Colab** to run this notebook effortlessly.
 
-### 📌 Colab Notebook
+
 
 👉 🚀 Run on Google Colab [Open in Google Colab](https://colab.research.google.com/drive/1SbXUIGewAaA85huMvGBhJebBNkmdw_SH#scrollTo=T9qDAX2SRjsn)
 
