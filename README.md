@@ -62,7 +62,7 @@ It’s perfect for predicting mobile price range from structured/tabular data.
 
 * * *
 
-### 💻 Technical Stack
+
 ------------------
 
 ![Python](https://img.shields.io/badge/Python-3.9%252B-blue)  
